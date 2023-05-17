@@ -10,7 +10,7 @@
   
   <properties>
     <jenkins.version>1.609.3</jenkins.version>
-    <workflow.version>1.14.2</workflow.version>
+    <workflow.version>1295.v395eb_7400005</workflow.version>
     <java.level>7</java.level>
   </properties>
   
